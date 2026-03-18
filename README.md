@@ -1,8 +1,7 @@
 # 📄 Smart Hotel – AIoT (Full Project Documentation)
 
-# 📊 Web Dashboard 
-ubiquitous-kleicha-7cdf3f.netlify.app
-
+📊 Web Dashboard 
+https://ubiquitous-kleicha-7cdf3f.netlify.app/
 A fully integrated **Smart Hotel** system powered 100% by **solar energy**, designed using **ESP32**, **Raspberry Pi**, **IoT sensors**, and **Blynk IoT Cloud**.
 
 This project focuses on:
