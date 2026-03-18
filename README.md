@@ -1,6 +1,7 @@
 # 📄 Smart Hotel – AIoT (Full Project Documentation)
 
-# 🌍 Smart Hotel – AIoT (Solar‑Powered)
+# 📊 Web Dashboard 
+ubiquitous-kleicha-7cdf3f.netlify.app
 
 A fully integrated **Smart Hotel** system powered 100% by **solar energy**, designed using **ESP32**, **Raspberry Pi**, **IoT sensors**, and **Blynk IoT Cloud**.
 
@@ -272,6 +273,10 @@ The Raspberry Pi is the **core of the hotel**, running:
 [Local Web Dashboard Simulation]---
 
 # 📊 7. Web Dashboard (UI)
+Here is the live simulation dashboard for the Smart Hotel system:
+👉 **Dashboard Link:**  
+ubiquitous-kleicha-7cdf3f.netlify.app
+
 The project includes a custom **Smart Hotel Dashboard** showing:
 
 - Real‑time sensor data  
