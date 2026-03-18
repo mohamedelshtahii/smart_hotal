@@ -272,10 +272,7 @@ The Raspberry Pi is the **core of the hotel**, running:
 [Local Web Dashboard Simulation]---
 
 # 📊 7. Web Dashboard (UI)
-Here is the live simulation dashboard for the Smart Hotel system:
-👉 **Dashboard Link:**  
-ubiquitous-kleicha-7cdf3f.netlify.app
-
+https://ubiquitous-kleicha-7cdf3f.netlify.app/
 The project includes a custom **Smart Hotel Dashboard** showing:
 
 - Real‑time sensor data  
