@@ -1,4 +1,5 @@
 # 📄 Smart Hotel – AIoT (Full Project Documentation)
+<img width="1856" height="845" alt="Screenshot 2026-03-18 044906" src="https://github.com/user-attachments/assets/ef6e0905-b305-4d23-bb93-ce6e075a6657" />
 
 📊 Web Dashboard 
 https://ubiquitous-kleicha-7cdf3f.netlify.app/
