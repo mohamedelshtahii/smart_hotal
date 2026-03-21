@@ -83,7 +83,9 @@ The Raspberry Pi works as:
 - DHT22  
 - Smoke Sensor  
 - OpenMV Camera  
-- Display screen  
+- Display screen
+  
+<img width="1758" height="489" alt="Screenshot 2026-03-18 044917" src="https://github.com/user-attachments/assets/3ce02f5d-08ab-4bdb-b8b6-003a0bbe54c0" />
 
 ### Functions:
 - Live temp/humidity readings  
@@ -113,6 +115,7 @@ The Raspberry Pi works as:
 ### Blynk:
 - View alarms  
 - Control lights  
+<img width="1723" height="671" alt="Screenshot 2026-03-18 044928" src="https://github.com/user-attachments/assets/4163b323-2d99-4164-a233-61754a842dda" />
 
 ---
 
@@ -140,6 +143,8 @@ The Raspberry Pi works as:
 - Auto lights  
 - Fan auto ON on high humidity  
 
+<img width="1723" height="671" alt="Screenshot 2026-03-18 044928" src="https://github.com/user-attachments/assets/922c935b-4bfa-4555-be9a-3d79fd7df547" />
+
 ---
 
 ## 🍽 **Restaurant**
@@ -152,7 +157,9 @@ The Raspberry Pi works as:
 - Comfort monitoring  
 - Air quality  
 - Crowd tracking  
-- Full Blynk control  
+- Full Blynk control
+  
+<img width="1719" height="517" alt="Screenshot 2026-03-18 044938" src="https://github.com/user-attachments/assets/2166b8bf-9bba-465e-859d-8f88bca09e0a" />
 
 ---
 
@@ -167,6 +174,8 @@ The Raspberry Pi works as:
 - Café screen: time + weather  
 - Occupancy chart  
 - Environment monitoring  
+
+<img width="1741" height="516" alt="Screenshot 2026-03-18 044946" src="https://github.com/user-attachments/assets/2d0c17d2-1f8e-4bb2-af85-83cfca9c20c3" />
 
 ---
 
@@ -184,7 +193,9 @@ The Raspberry Pi works as:
 - Noise monitoring  
 - Temp/humidity regulation  
 - Blynk: control lights, fans, TV  
-- Live room environment  
+- Live room environment
+  
+<img width="1473" height="561" alt="Screenshot 2026-03-18 044957" src="https://github.com/user-attachments/assets/5a3b7a33-88c8-4dbb-a4ed-b7ada76df0d4" />
 
 ---
 
@@ -214,6 +225,8 @@ The Raspberry Pi works as:
 - Battery %  
 - Solar power generated  
 - Load consumption  
+
+<img width="1362" height="809" alt="Screenshot 2026-03-18 045010" src="https://github.com/user-attachments/assets/b1f7f3ea-4f18-4332-b331-b20b3d62a3ca" />
 
 ---
 
